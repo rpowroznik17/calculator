@@ -16,6 +16,10 @@
 
 
 
+button {
+    cursor: pointer;
+}
+
 #display {
     grid-area: display;
     border: 1px solid blue;
